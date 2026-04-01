@@ -334,7 +334,7 @@ public class Caesar extends JFrame
 
     public static char[] createAlphabet()
     {
-        char[] alphabet = new char[115];
+        char[] alphabet = new char[167];
         alphabet[0] = 'а';
         alphabet[1] = 'б';
         alphabet[2] = 'в';
@@ -450,6 +450,58 @@ public class Caesar extends JFrame
         alphabet[112] = '»';
         alphabet[113] = '—';
         alphabet[114] = '…';
+        alphabet[115] = 'A';
+        alphabet[116] = 'B';
+        alphabet[117] = 'C';
+        alphabet[118] = 'D';
+        alphabet[119] = 'E';
+        alphabet[120] = 'F';
+        alphabet[121] = 'G';
+        alphabet[122] = 'H';
+        alphabet[123] = 'I';
+        alphabet[124] = 'J';
+        alphabet[125] = 'K';
+        alphabet[126] = 'L';
+        alphabet[127] = 'M';
+        alphabet[128] = 'N';
+        alphabet[129] = 'O';
+        alphabet[130] = 'P';
+        alphabet[131] = 'Q';
+        alphabet[132] = 'R';
+        alphabet[133] = 'S';
+        alphabet[134] = 'T';
+        alphabet[135] = 'U';
+        alphabet[136] = 'V';
+        alphabet[137] = 'W';
+        alphabet[138] = 'X';
+        alphabet[139] = 'Y';
+        alphabet[140] = 'Z';
+        alphabet[141] = 'a';
+        alphabet[142] = 'b';
+        alphabet[143] = 'c';
+        alphabet[144] = 'd';
+        alphabet[145] = 'e';
+        alphabet[146] = 'f';
+        alphabet[147] = 'g';
+        alphabet[148] = 'h';
+        alphabet[149] = 'i';
+        alphabet[150] = 'j';
+        alphabet[151] = 'k';
+        alphabet[152] = 'l';
+        alphabet[153] = 'm';
+        alphabet[154] = 'n';
+        alphabet[155] = 'o';
+        alphabet[156] = 'p';
+        alphabet[157] = 'q';
+        alphabet[158] = 'r';
+        alphabet[159] = 's';
+        alphabet[160] = 't';
+        alphabet[161] = 'u';
+        alphabet[162] = 'v';
+        alphabet[163] = 'w';
+        alphabet[164] = 'x';
+        alphabet[165] = 'y';
+        alphabet[166] = 'z';
         return alphabet;
     }
 
