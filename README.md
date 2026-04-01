@@ -1,3 +1,4 @@
+```markdown
 # Шифр Цезаря и Виженера / Caesar and Vigenere Cipher
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=java)
@@ -48,7 +49,7 @@ A desktop application with a graphical interface for encrypting and decrypting t
 
 ## Быстрый старт / Quick Start
 
-### Требования / Requirements
+### 📋 Требования / Requirements
 - Java Runtime Environment (JRE) 17 или выше
 - Любая ОС: Windows / Linux / macOS
 
@@ -75,11 +76,11 @@ java Caesar
 2. **Выберите шифр**: Цезаря или Виженера
 3. **Введите текст** в левое поле или нажмите "Загрузить файл"
 4. **Укажите ключ**:
-    - Для Цезаря: число от 0 до 114
-    - Для Виженера: ключевое слово (только буквы)
+   - Для Цезаря: число от 0 до 114
+   - Для Виженера: ключевое слово (только буквы)
 5. **Выберите действие:**
-    - Нажмите "Зашифровать" для кодирования
-    - Нажмите "Расшифровать" для декодирования
+   - Нажмите "Зашифровать" для кодирования
+   - Нажмите "Расшифровать" для декодирования
 6. **Результат** появится в правом поле
 7. **Сохраните результат** кнопкой "Сохранить результат"
 
@@ -88,11 +89,11 @@ java Caesar
 2. **Select cipher**: Caesar or Vigenere
 3. **Enter text** in the left field or click "Load file"
 4. **Specify the key**:
-    - For Caesar: number from 0 to 114
-    - For Vigenere: keyword (letters only)
+   - For Caesar: number from 0 to 114
+   - For Vigenere: keyword (letters only)
 5. **Choose action:**
-    - Click "Encrypt" to encode
-    - Click "Decrypt" to decode
+   - Click "Encrypt" to encode
+   - Click "Decrypt" to decode
 6. **Result** appears in the right field
 7. **Save result** with "Save result" button
 
@@ -209,7 +210,8 @@ Caesar (JFrame)
 ```
 Caesar-Cipher-Encoder-Decoder/
 ├── Caesar.java              # Исходный код приложения
-└── README.md                # Документация
+├── README.md                # Документация
+└── examples/                # Примеры файлов для тестирования
 ```
 
 ## Вклад в проект / Contributing
@@ -231,4 +233,3 @@ Caesar-Cipher-Encoder-Decoder/
 Если вам понравился проект, поставьте звездочку на GitHub! Это очень мотивирует :)
 
 If you like this project, please give it a star on GitHub! It really motivates :)
-```
